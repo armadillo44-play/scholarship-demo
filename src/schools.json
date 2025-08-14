@@ -1,0 +1,82 @@
+[
+  {
+    "name": "University of Minnesota Duluth",
+    "baseTuition": 13000,
+    "meritScholarships": [
+      {
+        "minGPA": 3.5,
+        "maxGPA": 4.0,
+        "minTestScore": 1200,
+        "maxTestScore": 1600,
+        "award": 4000
+      },
+      {
+        "minGPA": 3.0,
+        "maxGPA": 3.49,
+        "minTestScore": 1000,
+        "maxTestScore": 1199,
+        "award": 2000
+      }
+    ]
+  },
+  {
+    "name": "University of St. Thomas",
+    "baseTuition": 45000,
+    "meritScholarships": [
+      {
+        "minGPA": 3.7,
+        "maxGPA": 4.0,
+        "minTestScore": 1300,
+        "maxTestScore": 1600,
+        "award": 15000
+      },
+      {
+        "minGPA": 3.3,
+        "maxGPA": 3.69,
+        "minTestScore": 1100,
+        "maxTestScore": 1299,
+        "award": 7000
+      }
+    ]
+  },
+  {
+    "name": "University of St. Mary (North Dakota)",
+    "baseTuition": 11000,
+    "meritScholarships": [
+      {
+        "minGPA": 3.5,
+        "maxGPA": 4.0,
+        "minTestScore": 1200,
+        "maxTestScore": 1600,
+        "award": 5000
+      },
+      {
+        "minGPA": 3.0,
+        "maxGPA": 3.49,
+        "minTestScore": 1000,
+        "maxTestScore": 1199,
+        "award": 2500
+      }
+    ]
+  },
+  {
+    "name": "University of Minnesota",
+    "baseTuition": 15000,
+    "meritScholarships": [
+      {
+        "minGPA": 3.8,
+        "maxGPA": 4.0,
+        "minTestScore": 1350,
+        "maxTestScore": 1600,
+        "award": 12000
+      },
+      {
+        "minGPA": 3.4,
+        "maxGPA": 3.79,
+        "minTestScore": 1150,
+        "maxTestScore": 1349,
+        "award": 6000
+      }
+    ]
+  }
+]
